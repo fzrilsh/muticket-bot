@@ -1,0 +1,2 @@
+change file Client.js on library waweb.js
+line 175: div[role=\'textbox\']
